@@ -1,0 +1,5 @@
+2026-10-02 10:01:22 INFO - User login successful - IP: 192.168.1.50
+2026-10-02 10:02:15 WARN - Failed password attempt - User: admin - IP: 10.0.0.42
+2026-10-02 10:02:18 WARN - Failed password attempt - User: admin - IP: 10.0.0.42
+2026-10-02 10:02:22 WARN - Failed password attempt - User: admin - IP: 10.0.0.42
+2026-10-02 10:03:01 INFO - System health check normal - IP: 192.168.1.1
